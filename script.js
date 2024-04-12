@@ -1,5 +1,5 @@
 function shortcut(s1, s2) {
-  // your code here
+	
 	if not s1 or not s2:
         return ''
     else:
